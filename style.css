@@ -1,0 +1,26 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: "Comic Sans MS", cursive;
+    text-align: center;
+    margin-top: 20%;
+}
+h1 {
+    font-size: 4rem;
+    text-shadow: 3px 3px 0px #ff69b4;
+}
+p {
+    font-size: 1.5rem;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    color: #000;
+    background: #ff69b4;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover {
+    background: #ff1493;
+}
